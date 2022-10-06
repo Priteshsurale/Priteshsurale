@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priteshsurale
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning C# (C-Sharp), .NET Framework.
+- 🌱 I’m currently learning Node Js , Express JS And PostgreSQL
 - 📫 How to reach me, Twitter @priteshsurale
 
 <!---
