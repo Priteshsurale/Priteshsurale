@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @Priteshsurale
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning Data Engineering
-- 📫 How to reach me, Twitter @priteshsurale
-
-<!---
-Priteshsurale/Priteshsurale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skilled Software Developer and Data Engineer with 2 years of hands-on experience in Python-driven data engineering. Proficient in building and optimizing ETL pipelines, API endpoints, and data models using a robust tech stack including Python, Apache Airflow, PySpark, and PostgreSQL. Passionate about harnessing large language models (LLMs) for custom chatbot development and fine-tuning AI solutions. Strong interest in big data technologies and continuously exploring emerging tech trends to stay ahead in data engineering and machine learning.
