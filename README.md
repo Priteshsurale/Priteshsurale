@@ -19,10 +19,10 @@ Skilled Software Developer and Data Engineer with 2 years of hands-on experience
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages**: Python, SQL, JavaScript, HTML, CSS
+- **Languages**: Python, SQL, JavaScript, Go, HTML, CSS, 
 - **Data Engineering**: PySpark, Apache Airflow, ETL, PostgreSQL, Hadoop
-- **Machine Learning & AI**: TensorFlow, OpenCV, LLM Fine-Tuning, Langchain
-- **Tools & Frameworks**: FastAPI, Flask, Pandas, Selenium, Git, Postman
+- **Machine Learning & AI**: Pytorch, OpenCV, LLM Fine-Tuning, Langchain, Ollama
+- **Tools & Frameworks**: FastAPI, Flask, Pandas, Selenium, Git, Postman, PyMuPDF
 - **Operating Systems**: Linux, Windows
 
 <p align="left">
@@ -30,7 +30,7 @@ Skilled Software Developer and Data Engineer with 2 years of hands-on experience
   <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="PySpark" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://static.cdnlogo.com/logos/p/36/pytorch.svg" alt="PyTorch" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/>
 </p>
