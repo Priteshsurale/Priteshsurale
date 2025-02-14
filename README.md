@@ -57,10 +57,10 @@ Skilled Software Developer and Data Engineer with 2 years of hands-on experience
 
 ### 📈 Recent Projects
 
-- **ETL Pipeline Optimization**: Streamlined data processing workflows for faster, more reliable data ingestion using Apache Airflow and PySpark.
+- **Used Car Price Detection**: created and train a model with small car dataset to predict the car price for buying or selling.
 - **Custom LLM-Based Chatbot**: Developed a custom chatbot for internal knowledge management, fine-tuned on company-specific data.
 - **API Development**: Built RESTful APIs for seamless data integration with third-party applications, using Flask and Postman for testing.
-
+- **ETL Pipeline Optimization**: Streamlined data processing workflows for faster, more reliable data ingestion using Apache Airflow and PySpark.
 ---
 
 Thank you for visiting my profile! Feel free to reach out if you’d like to collaborate on any project or just want to connect. 😊
